@@ -53,16 +53,10 @@
 }
 
 html {
-    height: 470%;
+    height: 100%;
     min-height: 100%;
 }
 
-body {
-    display: flex;
-    flex-direction: column;
-    min-height: 100%;
-    
-}
 
 footer {
     position: absolute;
@@ -82,3 +76,23 @@ footer {
 #img-github{
     max-width: 30px;
 }
+
+.vida-marinha{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+.pescador{
+    margin-top: 25px;
+}
+
+.tart{
+    position: relative;
+    top: 500px;
+}
+
+.ods{
+    position: relative;
+    top: 77px;
+}
+
